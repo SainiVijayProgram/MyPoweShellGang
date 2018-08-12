@@ -1,4 +1,3 @@
-﻿#
 # Script Owner: Vijay Saini
 # Developed on: 12th August 2018
 #
